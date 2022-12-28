@@ -5,6 +5,7 @@
 #DOCKER KURULUMU
 ![2](https://user-images.githubusercontent.com/99283497/209870107-0308bddc-b3b3-4e58-9b87-5bde94b1ad6c.JPG)
 #DOCKER VERSİYON KONTROLÜ
+
 ![3](https://user-images.githubusercontent.com/99283497/209870109-48df8c82-ff93-404f-b1df-8811a961fece.JPG)
 #DENEME PYTHON OLUSUMU
 ![4](https://user-images.githubusercontent.com/99283497/209870111-2aaacb74-948b-4545-bae9-30bfbeecb427.JPG)
