@@ -1,4 +1,4 @@
-# Docker
+# DOCKER
 
 # CMD YE BAGLANTI
 ![1](https://user-images.githubusercontent.com/99283497/209870103-7578f77d-e111-49f5-89ef-62297b5a1aa3.JPG)
@@ -13,7 +13,7 @@
 ![4](https://user-images.githubusercontent.com/99283497/209870111-2aaacb74-948b-4545-bae9-30bfbeecb427.JPG)
 ![5](https://user-images.githubusercontent.com/99283497/209870113-2cd76213-844a-472e-a0b5-9eb3dcb93275.JPG)
 
-#DOCKERFİLE OLUSUMU
+# DOCKERFİLE OLUSUMU
 
 ![6](https://user-images.githubusercontent.com/99283497/209870115-150a8a06-feda-4a77-819f-439e37778001.JPG)
 ![7](https://user-images.githubusercontent.com/99283497/209870116-bc6328d3-3705-4080-9642-ed5e53c774e5.JPG)
@@ -22,5 +22,5 @@
 ![10](https://user-images.githubusercontent.com/99283497/209870121-5de2100f-98c4-413f-b750-fb807288a791.JPG)
 ![11](https://user-images.githubusercontent.com/99283497/209870125-58707b85-a890-4ee0-b7f5-13736409282f.JPG)
 
-#CALISTIRMA
+# CALISTIRMA
 ![12](https://user-images.githubusercontent.com/99283497/209870126-37eb172c-4c17-48c4-8d42-069547e05a8a.JPG)
