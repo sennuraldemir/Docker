@@ -1,7 +1,9 @@
-# Docker
+# DOCKER
 
-#CMD YE BAGLANTI
+# CMD YE BAGLANTI
 ![1](https://user-images.githubusercontent.com/99283497/209870103-7578f77d-e111-49f5-89ef-62297b5a1aa3.JPG)
+
+# Docker indirilmesi
 ![2](https://user-images.githubusercontent.com/99283497/209870107-0308bddc-b3b3-4e58-9b87-5bde94b1ad6c.JPG)
 ![3](https://user-images.githubusercontent.com/99283497/209870109-48df8c82-ff93-404f-b1df-8811a961fece.JPG)
 ![4](https://user-images.githubusercontent.com/99283497/209870111-2aaacb74-948b-4545-bae9-30bfbeecb427.JPG)
